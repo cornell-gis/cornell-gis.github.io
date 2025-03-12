@@ -61,6 +61,8 @@ Short presentations (about 5 minutes) given by folks from across several Cornell
 
 ## Iron Mapper
 
+![Iron Mapper logo](image/iron-mapper-2012-logo.jpg)
+
 We are very excited to host (with the help of Diana Sinton) a new event this year: Iron Mapper! Inspired by "Iron Chefs", contestants will have 60 minutes to make a map using a "secret" data layer that will be revealed at the start of the event. This will be an event to remember for all time... an epic map battle to determine who rules the (cartographic) world. The number of contestants will be limited, so register now!
 
 > **Note**
